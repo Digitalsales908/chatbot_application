@@ -78,7 +78,7 @@ except:
     st.warning("Logo not found. Proceeding without it.")
 
 # --- Title ---
-st.markdown("<h3>🧬 Genomics Sales Assistant</h3>", unsafe_allow_html=True)
+#st.markdown("<h3>🧬 Genomics Sales Assistant</h3>", unsafe_allow_html=True)
 
 # --- Load Data (Cached) ---
 @st.cache_data
