@@ -1,0 +1,11 @@
+streamlit
+pandas
+openpyxl
+ollama
+streamlit
+pandas
+ollama
+sentence-transformers
+scikit-learn
+openpyxl
+groq
