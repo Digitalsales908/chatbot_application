@@ -38,7 +38,7 @@ st.markdown(f"""
     </div>
 """, unsafe_allow_html=True)
 # --- App Title ---
-st.title("🧬 Genomics Sales Assistant")
+#st.title("🧬 Genomics Sales Assistant")
 
 #with header_col2:
     #st.markdown("<h2 style='margin-top: 25px;'>🧬 Genomics Sales Assistant</h2>", unsafe_allow_html=True)

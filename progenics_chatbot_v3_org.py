@@ -22,7 +22,7 @@ else:
     st.warning("Logo file not found!")
 
 # --- App Title ---
-st.title("🧬 Genomics Sales Assistant")
+#st.title("🧬 Genomics Sales Assistant")
 
 # --- Load and cache Excel ---
 @st.cache_data

@@ -76,7 +76,7 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 # --- Title ---
-st.markdown("<h3>🧬 Genomics Sales Assistant</h3>", unsafe_allow_html=True)
+st.markdown("<h3>Genomics Sales Assistant</h3>", unsafe_allow_html=True)
 
 # --- Load Data ---
 @st.cache_data
